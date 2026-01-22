@@ -84,7 +84,7 @@ Built with Dash and Plotly, featuring:
 
 1. **Clone or download the notebook**
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/AbddoesAI/AI-based-Customer-Churn-Prediction-for-SaaS.git>
 cd saas-churn-prediction
 ```
 
